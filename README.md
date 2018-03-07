@@ -1,2 +1,2 @@
-# Thom-sBlogs
+# TomsBlogs
 Blogs by Thomas Wollschlager
